@@ -1,0 +1,12 @@
+personal_info:
+  name: Anastasiia
+  surname: Tulentseva
+experience:
+  ruby: 3 years
+  ruby_on_rails: 3 years
+  javascript: 3 years
+  react_js: 1 year
+current_position:
+  company: InStat
+  level: middle
+  stack: Ruby on Rails, Node.js, React.js, PostgreSQL, MySQL
