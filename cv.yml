@@ -1,12 +1,12 @@
-personal_info:
-  name: Anastasiia
-  surname: Tulentseva
-experience:
-  ruby: 3 years
-  ruby_on_rails: 3 years
-  javascript: 3 years
-  react_js: 1 year
-current_position:
-  company: InStat
-  level: middle
-  stack: Ruby on Rails, Node.js, React.js, PostgreSQL, MySQL
+goal: To learn Ruby best practices, to advance my programming skills, to have new experience
+programming_languages: Ruby, JavaScript
+have_a_job: Developer at InStat company
+laptop: MacOS
+english: Upper intermediate
+education: 2008, Computer Systems Analyst, Berdyansk University of Management and Busines
+phone_number: +79672941880
+hours_per_day: 2
+age: 33
+full_name: Anastasiia Tulentseva
+
+
